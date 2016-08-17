@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name    = "nats-native"
-  s.version = "1.4.2"
+  s.version = "1.4.3"
   s.summary = "NATS client for Ruby"
   s.author  = "Ron Elliott"
 
